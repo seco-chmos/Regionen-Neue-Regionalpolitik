@@ -980,32 +980,32 @@
 13821,2893,Reigoldswil,13,BL,1305,Bezirk Waldenburg,Kanton Basel-Landschaft,Art. 1 Abs. 2,RIS Basel-Jura,,,1,Kanton ausgeschrieben
 13822,2894,Titterten,13,BL,1305,Bezirk Waldenburg,Kanton Basel-Landschaft,Art. 1 Abs. 2,RIS Basel-Jura,,,1,Kanton ausgeschrieben
 13823,2895,Waldenburg,13,BL,1305,Bezirk Waldenburg,Kanton Basel-Landschaft,Art. 1 Abs. 2,RIS Basel-Jura,,,1,Kanton ausgeschrieben
-12071,2901,Gächlingen,14,SH,1401,Bezirk Oberklettgau,Regionaler Naturpark Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,0,
-12801,2903,Löhningen,14,SH,1401,Bezirk Oberklettgau,Regionaler Naturpark Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,0,
-12519,2904,Neunkirch,14,SH,1401,Bezirk Oberklettgau,Regionaler Naturpark Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,0,
-11486,2914,Büttenhardt,14,SH,1402,Bezirk Reiat,Regionaler Naturpark Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,0,
-12184,2915,Dörflingen,14,SH,1402,Bezirk Reiat,Regionaler Naturpark Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,0,
-12800,2917,Lohn (SH),14,SH,1402,Bezirk Reiat,Regionaler Naturpark Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,0,
-10586,2919,Stetten (SH),14,SH,1402,Bezirk Reiat,Regionaler Naturpark Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,0,
-14948,2920,Thayngen,14,SH,1402,Bezirk Reiat,Regionaler Naturpark Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,0,
-11688,2931,Bargen (SH),14,SH,1403,Bezirk Schaffhausen,Regionaler Naturpark Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,0,
-15604,2932,Beringen,14,SH,1403,Bezirk Schaffhausen,Regionaler Naturpark Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,0,
-11474,2933,Buchberg,14,SH,1403,Bezirk Schaffhausen,Regionaler Naturpark Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,0,
-12395,2936,Merishausen,14,SH,1403,Bezirk Schaffhausen,Regionaler Naturpark Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,0,
-12525,2937,Neuhausen am Rheinfall,14,SH,1403,Bezirk Schaffhausen,Regionaler Naturpark Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,0,
-12846,2938,Rüdlingen,14,SH,1403,Bezirk Schaffhausen,Regionaler Naturpark Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,0,
-14949,2939,Schaffhausen,14,SH,1403,Bezirk Schaffhausen,Regionaler Naturpark Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,0,
-11873,2951,Beggingen,14,SH,1404,Bezirk Schleitheim,Regionaler Naturpark Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,0,
-13045,2952,Schleitheim,14,SH,1404,Bezirk Schleitheim,Regionaler Naturpark Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,0,
-12989,2953,Siblingen,14,SH,1404,Bezirk Schleitheim,Regionaler Naturpark Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,0,
-11479,2961,Buch (SH),14,SH,1405,Bezirk Stein,Regionaler Naturpark Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,0,
-12233,2962,Hemishofen,14,SH,1405,Bezirk Stein,Regionaler Naturpark Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,0,
-13170,2963,Ramsen,14,SH,1405,Bezirk Stein,Regionaler Naturpark Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,0,
-10592,2964,Stein am Rhein,14,SH,1405,Bezirk Stein,Regionaler Naturpark Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,0,
-12020,2971,Hallau,14,SH,1406,Bezirk Unterklettgau,Regionaler Naturpark Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,0,
-12471,2972,Oberhallau,14,SH,1406,Bezirk Unterklettgau,Regionaler Naturpark Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,0,
-10882,2973,Trasadingen,14,SH,1406,Bezirk Unterklettgau,Regionaler Naturpark Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,0,
-14515,2974,Wilchingen,14,SH,1406,Bezirk Unterklettgau,Regionaler Naturpark Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,0,
+12071,2901,Gächlingen,14,SH,1401,Bezirk Oberklettgau,Kanton Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,1,Kt. SH; Kontakt Generis
+12801,2903,Löhningen,14,SH,1401,Bezirk Oberklettgau,Kanton Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,1,Kt. SH; Kontakt Generis
+12519,2904,Neunkirch,14,SH,1401,Bezirk Oberklettgau,Kanton Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,1,Kt. SH; Kontakt Generis
+11486,2914,Büttenhardt,14,SH,1402,Bezirk Reiat,Kanton Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,1,Kt. SH; Kontakt Generis
+12184,2915,Dörflingen,14,SH,1402,Bezirk Reiat,Kanton Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,1,Kt. SH; Kontakt Generis
+12800,2917,Lohn (SH),14,SH,1402,Bezirk Reiat,Kanton Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,1,Kt. SH; Kontakt Generis
+10586,2919,Stetten (SH),14,SH,1402,Bezirk Reiat,Kanton Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,1,Kt. SH; Kontakt Generis
+14948,2920,Thayngen,14,SH,1402,Bezirk Reiat,Kanton Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,1,Kt. SH; Kontakt Generis
+11688,2931,Bargen (SH),14,SH,1403,Bezirk Schaffhausen,Kanton Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,1,Kt. SH; Kontakt Generis
+15604,2932,Beringen,14,SH,1403,Bezirk Schaffhausen,Kanton Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,1,Kt. SH; Kontakt Generis
+11474,2933,Buchberg,14,SH,1403,Bezirk Schaffhausen,Kanton Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,1,Kt. SH; Kontakt Generis
+12395,2936,Merishausen,14,SH,1403,Bezirk Schaffhausen,Kanton Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,1,Kt. SH; Kontakt Generis
+12525,2937,Neuhausen am Rheinfall,14,SH,1403,Bezirk Schaffhausen,Kanton Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,1,Kt. SH; Kontakt Generis
+12846,2938,Rüdlingen,14,SH,1403,Bezirk Schaffhausen,Kanton Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,1,Kt. SH; Kontakt Generis
+14949,2939,Schaffhausen,14,SH,1403,Bezirk Schaffhausen,Kanton Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,1,Kt. SH; Kontakt Generis
+11873,2951,Beggingen,14,SH,1404,Bezirk Schleitheim,Kanton Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,1,Kt. SH; Kontakt Generis
+13045,2952,Schleitheim,14,SH,1404,Bezirk Schleitheim,Kanton Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,1,Kt. SH; Kontakt Generis
+12989,2953,Siblingen,14,SH,1404,Bezirk Schleitheim,Kanton Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,1,Kt. SH; Kontakt Generis
+11479,2961,Buch (SH),14,SH,1405,Bezirk Stein,Kanton Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,1,Kt. SH; Kontakt Generis
+12233,2962,Hemishofen,14,SH,1405,Bezirk Stein,Kanton Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,1,Kt. SH; Kontakt Generis
+13170,2963,Ramsen,14,SH,1405,Bezirk Stein,Kanton Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,1,Kt. SH; Kontakt Generis
+10592,2964,Stein am Rhein,14,SH,1405,Bezirk Stein,Kanton Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,1,Kt. SH; Kontakt Generis
+12020,2971,Hallau,14,SH,1406,Bezirk Unterklettgau,Kanton Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,1,Kt. SH; Kontakt Generis
+12471,2972,Oberhallau,14,SH,1406,Bezirk Unterklettgau,Kanton Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,1,Kt. SH; Kontakt Generis
+10882,2973,Trasadingen,14,SH,1406,Bezirk Unterklettgau,Kanton Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,1,Kt. SH; Kontakt Generis
+14515,2974,Wilchingen,14,SH,1406,Bezirk Unterklettgau,Kanton Schaffhausen,Art. 1 Abs. 1,RIS Ost,,,1,Kt. SH; Kontakt Generis
 12304,3001,Herisau,15,AR,1501,Bezirk Hinterland,Kanton Appenzell Ausserrhoden; REGIO Appenzell AR-St.Gallen-Bodensee,Art. 1 Abs. 1,RIS Ost,,,1,AR und REGIO AR-SG-BS
 12175,3002,Hundwil,15,AR,1501,Bezirk Hinterland,Kanton Appenzell Ausserrhoden; REGIO Appenzell AR-St.Gallen-Bodensee,Art. 1 Abs. 1,RIS Ost,,,1,AR und REGIO AR-SG-BS
 12972,3003,Schönengrund,15,AR,1501,Bezirk Hinterland,Kanton Appenzell Ausserrhoden; REGIO Appenzell AR-St.Gallen-Bodensee,Art. 1 Abs. 1,RIS Ost,,,1,AR und REGIO AR-SG-BS
