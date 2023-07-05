@@ -1,18 +1,18 @@
-﻿GMDHISTID,GDENR,GDENAME,KTNR,GDEKT,GDEBZNR,GDEBZNA,Region,Wirkungsbereich,RIS,InterkantonaleProgramme,Energieregion,Korrektur,KText
-13256,1,Aeugst am Albis,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,,,,Knonauer Amt,0,
-11742,2,Affoltern am Albis,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,,,,Knonauer Amt,0,
-11801,3,Bonstetten,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,,,,Knonauer Amt,0,
-11992,4,Hausen am Albis,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,,,,Knonauer Amt,0,
-12249,5,Hedingen,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,,,,Knonauer Amt,0,
-12671,6,Kappel am Albis,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,,,,Knonauer Amt,0,
-12674,7,Knonau,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,,,,Knonauer Amt,0,
-12738,8,Maschwanden,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,,,,Knonauer Amt,0,
-12433,9,Mettmenstetten,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,,,,Knonauer Amt,0,
-12497,10,Obfelden,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,,,,Knonauer Amt,0,
-13124,11,Ottenbach,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,,,,Knonauer Amt,0,
-12891,12,Rifferswil,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,,,,Knonauer Amt,0,
-10575,13,Stallikon,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,,,,Knonauer Amt,0,
-13255,14,Wettswil am Albis,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,,,,Knonauer Amt,0,
+﻿GMDHISTID,GDENR,GDENAME,KTNR,GDEKT,GDEBZNR,GDEBZNA,Region,Wirkungsbereich,RIS,Interkantonale Programme,Energieregion,Korrektur,KText
+13256,1,Aeugst am Albis,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,Ausserhalb,,,Knonauer Amt,0,
+11742,2,Affoltern am Albis,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,Ausserhalb,,,Knonauer Amt,0,
+11801,3,Bonstetten,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,Ausserhalb,,,Knonauer Amt,0,
+11992,4,Hausen am Albis,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,Ausserhalb,,,Knonauer Amt,0,
+12249,5,Hedingen,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,Ausserhalb,,,Knonauer Amt,0,
+12671,6,Kappel am Albis,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,Ausserhalb,,,Knonauer Amt,0,
+12674,7,Knonau,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,Ausserhalb,,,Knonauer Amt,0,
+12738,8,Maschwanden,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,Ausserhalb,,,Knonauer Amt,0,
+12433,9,Mettmenstetten,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,Ausserhalb,,,Knonauer Amt,0,
+12497,10,Obfelden,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,Ausserhalb,,,Knonauer Amt,0,
+13124,11,Ottenbach,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,Ausserhalb,,,Knonauer Amt,0,
+12891,12,Rifferswil,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,Ausserhalb,,,Knonauer Amt,0,
+10575,13,Stallikon,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,Ausserhalb,,,Knonauer Amt,0,
+13255,14,Wettswil am Albis,1,ZH,101,Bezirk Affoltern,Bezirk Affoltern,Ausserhalb,,,Knonauer Amt,0,
 11862,22,Benken (ZH),1,ZH,102,Bezirk Andelfingen,Zürcher Weinland,Art. 1 Abs. 2,RIS Ost,,Zürcher Weinland,0,
 11855,23,Berg am Irchel,1,ZH,102,Bezirk Andelfingen,Zürcher Weinland,Art. 1 Abs. 2,RIS Ost,,,0,
 15513,24,Buch am Irchel,1,ZH,102,Bezirk Andelfingen,Zürcher Weinland,Art. 1 Abs. 2,RIS Ost,,,0,
@@ -31,144 +31,144 @@
 10898,40,Trüllikon,1,ZH,102,Bezirk Andelfingen,Zürcher Weinland,Art. 1 Abs. 2,RIS Ost,,Zürcher Weinland,0,
 10899,41,Truttikon,1,ZH,102,Bezirk Andelfingen,Zürcher Weinland,Art. 1 Abs. 2,RIS Ost,,Zürcher Weinland,0,
 10365,43,Volken,1,ZH,102,Bezirk Andelfingen,Zürcher Weinland,Art. 1 Abs. 2,RIS Ost,,,0,
-11683,51,Bachenbülach,1,ZH,103,Bezirk Bülach,Bezirk Bülach,,,,,0,
-11685,52,Bassersdorf,1,ZH,103,Bezirk Bülach,Bezirk Bülach,,,,,0,
-11461,53,Bülach,1,ZH,103,Bezirk Bülach,Bezirk Bülach,,,,,0,
-11563,54,Dietlikon,1,ZH,103,Bezirk Bülach,Bezirk Bülach,,,,,0,
-12168,55,Eglisau,1,ZH,103,Bezirk Bülach,Bezirk Bülach,,,,,0,
-12292,56,Embrach,1,ZH,103,Bezirk Bülach,Bezirk Bülach,,,,,0,
-11960,57,Freienstein-Teufen,1,ZH,103,Bezirk Bülach,Bezirk Bülach,,,,,0,
-12056,58,Glattfelden,1,ZH,103,Bezirk Bülach,Bezirk Bülach,,,,,0,
-12166,59,Hochfelden,1,ZH,103,Bezirk Bülach,Bezirk Bülach,,,,,0,
-12220,60,Höri,1,ZH,103,Bezirk Bülach,Bezirk Bülach,,,,,0,
-12178,61,Hüntwangen,1,ZH,103,Bezirk Bülach,Bezirk Bülach,,,,,0,
-12673,62,Kloten,1,ZH,103,Bezirk Bülach,Bezirk Bülach,,,,,0,
-12720,63,Lufingen,1,ZH,103,Bezirk Bülach,Bezirk Bülach,,,,,0,
-12547,64,Nürensdorf,1,ZH,103,Bezirk Bülach,Bezirk Bülach,,,,,0,
-12524,65,Oberembrach,1,ZH,103,Bezirk Bülach,Bezirk Bülach,,,,,0,
-12483,66,Opfikon,1,ZH,103,Bezirk Bülach,Bezirk Bülach,,,,,0,
-13090,67,Rafz,1,ZH,103,Bezirk Bülach,Bezirk Bülach,,,,,0,
-12919,68,Rorbas,1,ZH,103,Bezirk Bülach,Bezirk Bülach,,,,,0,
-10451,69,Wallisellen,1,ZH,103,Bezirk Bülach,Bezirk Bülach,,,,,0,
-10443,70,Wasterkingen,1,ZH,103,Bezirk Bülach,Bezirk Bülach,,,,,0,
-10268,71,Wil (ZH),1,ZH,103,Bezirk Bülach,Bezirk Bülach,,,,,0,
-10331,72,Winkel,1,ZH,103,Bezirk Bülach,Bezirk Bülach,,,,,0,
-11704,81,Bachs,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,,,,,0,
-11786,82,Boppelsen,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,,,,,0,
-11456,83,Buchs (ZH),1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,,,,,0,
-11578,84,Dällikon,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,,,,,0,
-11581,85,Dänikon,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,,,,,0,
-11567,86,Dielsdorf,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,,,,,0,
-12181,87,Hüttikon,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,,,,,0,
-12537,88,Neerach,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,,,,,0,
-12534,89,Niederglatt,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,,,,,0,
-12560,90,Niederhasli,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,,,,,0,
-12568,91,Niederweningen,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,,,,,0,
-12469,92,Oberglatt,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,,,,,0,
-12447,93,Oberweningen,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,,,,,0,
-13126,94,Otelfingen,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,,,,,0,
-13166,95,Regensberg,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,,,,,0,
-13168,96,Regensdorf,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,,,,,0,
-12834,97,Rümlang,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,,,,,0,
-13046,98,Schleinikon,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,,,,,0,
-13037,99,Schöfflisdorf,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,,,,,0,
-10383,100,Stadel,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,,,,,0,
-10597,101,Steinmaur,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,,,,,0,
-10448,102,Weiach,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,,,,,0,
+11683,51,Bachenbülach,1,ZH,103,Bezirk Bülach,Bezirk Bülach,Ausserhalb,,,,0,
+11685,52,Bassersdorf,1,ZH,103,Bezirk Bülach,Bezirk Bülach,Ausserhalb,,,,0,
+11461,53,Bülach,1,ZH,103,Bezirk Bülach,Bezirk Bülach,Ausserhalb,,,,0,
+11563,54,Dietlikon,1,ZH,103,Bezirk Bülach,Bezirk Bülach,Ausserhalb,,,,0,
+12168,55,Eglisau,1,ZH,103,Bezirk Bülach,Bezirk Bülach,Ausserhalb,,,,0,
+12292,56,Embrach,1,ZH,103,Bezirk Bülach,Bezirk Bülach,Ausserhalb,,,,0,
+11960,57,Freienstein-Teufen,1,ZH,103,Bezirk Bülach,Bezirk Bülach,Ausserhalb,,,,0,
+12056,58,Glattfelden,1,ZH,103,Bezirk Bülach,Bezirk Bülach,Ausserhalb,,,,0,
+12166,59,Hochfelden,1,ZH,103,Bezirk Bülach,Bezirk Bülach,Ausserhalb,,,,0,
+12220,60,Höri,1,ZH,103,Bezirk Bülach,Bezirk Bülach,Ausserhalb,,,,0,
+12178,61,Hüntwangen,1,ZH,103,Bezirk Bülach,Bezirk Bülach,Ausserhalb,,,,0,
+12673,62,Kloten,1,ZH,103,Bezirk Bülach,Bezirk Bülach,Ausserhalb,,,,0,
+12720,63,Lufingen,1,ZH,103,Bezirk Bülach,Bezirk Bülach,Ausserhalb,,,,0,
+12547,64,Nürensdorf,1,ZH,103,Bezirk Bülach,Bezirk Bülach,Ausserhalb,,,,0,
+12524,65,Oberembrach,1,ZH,103,Bezirk Bülach,Bezirk Bülach,Ausserhalb,,,,0,
+12483,66,Opfikon,1,ZH,103,Bezirk Bülach,Bezirk Bülach,Ausserhalb,,,,0,
+13090,67,Rafz,1,ZH,103,Bezirk Bülach,Bezirk Bülach,Ausserhalb,,,,0,
+12919,68,Rorbas,1,ZH,103,Bezirk Bülach,Bezirk Bülach,Ausserhalb,,,,0,
+10451,69,Wallisellen,1,ZH,103,Bezirk Bülach,Bezirk Bülach,Ausserhalb,,,,0,
+10443,70,Wasterkingen,1,ZH,103,Bezirk Bülach,Bezirk Bülach,Ausserhalb,,,,0,
+10268,71,Wil (ZH),1,ZH,103,Bezirk Bülach,Bezirk Bülach,Ausserhalb,,,,0,
+10331,72,Winkel,1,ZH,103,Bezirk Bülach,Bezirk Bülach,Ausserhalb,,,,0,
+11704,81,Bachs,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,Ausserhalb,,,,0,
+11786,82,Boppelsen,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,Ausserhalb,,,,0,
+11456,83,Buchs (ZH),1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,Ausserhalb,,,,0,
+11578,84,Dällikon,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,Ausserhalb,,,,0,
+11581,85,Dänikon,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,Ausserhalb,,,,0,
+11567,86,Dielsdorf,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,Ausserhalb,,,,0,
+12181,87,Hüttikon,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,Ausserhalb,,,,0,
+12537,88,Neerach,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,Ausserhalb,,,,0,
+12534,89,Niederglatt,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,Ausserhalb,,,,0,
+12560,90,Niederhasli,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,Ausserhalb,,,,0,
+12568,91,Niederweningen,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,Ausserhalb,,,,0,
+12469,92,Oberglatt,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,Ausserhalb,,,,0,
+12447,93,Oberweningen,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,Ausserhalb,,,,0,
+13126,94,Otelfingen,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,Ausserhalb,,,,0,
+13166,95,Regensberg,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,Ausserhalb,,,,0,
+13168,96,Regensdorf,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,Ausserhalb,,,,0,
+12834,97,Rümlang,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,Ausserhalb,,,,0,
+13046,98,Schleinikon,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,Ausserhalb,,,,0,
+13037,99,Schöfflisdorf,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,Ausserhalb,,,,0,
+10383,100,Stadel,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,Ausserhalb,,,,0,
+10597,101,Steinmaur,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,Ausserhalb,,,,0,
+10448,102,Weiach,1,ZH,104,Bezirk Dielsdorf,Bezirk Dielsdorf,Ausserhalb,,,,0,
 11709,111,Bäretswil,1,ZH,105,Bezirk Hinwil,Zürcher Berggebiet,Art. 1 Abs. 2,RIS Ost,,,0,
-11478,112,Bubikon,1,ZH,105,Bezirk Hinwil,Bezirk Hinwil,,,,,0,
-12159,113,Dürnten,1,ZH,105,Bezirk Hinwil,Bezirk Hinwil,,,,,0,
+11478,112,Bubikon,1,ZH,105,Bezirk Hinwil,Bezirk Hinwil,Ausserhalb,,,,0,
+12159,113,Dürnten,1,ZH,105,Bezirk Hinwil,Bezirk Hinwil,Ausserhalb,,,,0,
 12002,114,Fischenthal,1,ZH,105,Bezirk Hinwil,Zürcher Berggebiet,Art. 1 Abs. 2,RIS Ost,,,0,
-12023,115,Gossau (ZH),1,ZH,105,Bezirk Hinwil,Bezirk Hinwil,,,,,0,
-11970,116,Grüningen,1,ZH,105,Bezirk Hinwil,Bezirk Hinwil,,,,,0,
+12023,115,Gossau (ZH),1,ZH,105,Bezirk Hinwil,Bezirk Hinwil,Ausserhalb,,,,0,
+11970,116,Grüningen,1,ZH,105,Bezirk Hinwil,Bezirk Hinwil,Ausserhalb,,,,0,
 12156,117,Hinwil,1,ZH,105,Bezirk Hinwil,Zürcher Berggebiet,Art. 1 Abs. 2,RIS Ost,,,0,
-12883,118,Rüti (ZH),1,ZH,105,Bezirk Hinwil,Bezirk Hinwil,,,,,0,
-12951,119,Seegräben,1,ZH,105,Bezirk Hinwil,Bezirk Hinwil,,,,,0,
+12883,118,Rüti (ZH),1,ZH,105,Bezirk Hinwil,Bezirk Hinwil,Ausserhalb,,,,0,
+12951,119,Seegräben,1,ZH,105,Bezirk Hinwil,Bezirk Hinwil,Ausserhalb,,,,0,
 10459,120,Wald (ZH),1,ZH,105,Bezirk Hinwil,Zürcher Berggebiet,Art. 1 Abs. 2,RIS Ost,,,0,
-10277,121,Wetzikon (ZH),1,ZH,105,Bezirk Hinwil,Bezirk Hinwil,,,,,0,
-11745,131,Adliswil,1,ZH,106,Bezirk Horgen,Bezirk Horgen,,,,,0,
-12701,135,Kilchberg (ZH),1,ZH,106,Bezirk Horgen,Bezirk Horgen,,,,,0,
-12637,136,Langnau am Albis,1,ZH,106,Bezirk Horgen,Bezirk Horgen,,,,,0,
-12461,137,Oberrieden,1,ZH,106,Bezirk Horgen,Bezirk Horgen,,,,,0,
-12907,138,Richterswil,1,ZH,106,Bezirk Horgen,Bezirk Horgen,,,,,0,
-12832,139,Rüschlikon,1,ZH,106,Bezirk Horgen,Bezirk Horgen,,,,,0,
-10691,141,Thalwil,1,ZH,106,Bezirk Horgen,Bezirk Horgen,,,,,0,
-12301,151,Erlenbach (ZH),1,ZH,107,Bezirk Meilen,Bezirk Meilen,,,,,0,
-12316,152,Herrliberg,1,ZH,107,Bezirk Meilen,Bezirk Meilen,,,,Bezirk Meilen,0,
-12143,153,Hombrechtikon,1,ZH,107,Bezirk Meilen,Bezirk Meilen,,,,,0,
-12592,154,Küsnacht (ZH),1,ZH,107,Bezirk Meilen,Bezirk Meilen,,,,Bezirk Meilen,0,
-12754,155,Männedorf,1,ZH,107,Bezirk Meilen,Bezirk Meilen,,,,Bezirk Meilen,0,
-12408,156,Meilen,1,ZH,107,Bezirk Meilen,Bezirk Meilen,,,,Bezirk Meilen,0,
-12501,157,Oetwil am See,1,ZH,107,Bezirk Meilen,Bezirk Meilen,,,,,0,
-10363,158,Stäfa,1,ZH,107,Bezirk Meilen,Bezirk Meilen,,,,,0,
-13259,159,Uetikon am See,1,ZH,107,Bezirk Meilen,Bezirk Meilen,,,,Bezirk Meilen,0,
-10326,160,Zumikon,1,ZH,107,Bezirk Meilen,Bezirk Meilen,,,,,0,
-13683,161,Zollikon,1,ZH,107,Bezirk Meilen,Bezirk Meilen,,,,,0,
-11989,172,Fehraltorf,1,ZH,108,Bezirk Pfäffikon,Bezirk Pfäffikon,,,,,0,
-12161,173,Hittnau,1,ZH,108,Bezirk Pfäffikon,Bezirk Pfäffikon,,,,,0,
-12821,176,Lindau,1,ZH,108,Bezirk Pfäffikon,Bezirk Pfäffikon,,,,,0,
-13137,177,Pfäffikon,1,ZH,108,Bezirk Pfäffikon,Bezirk Pfäffikon,,,,,0,
-12831,178,Russikon,1,ZH,108,Bezirk Pfäffikon,Bezirk Pfäffikon,,,,,0,
-10389,180,Weisslingen,1,ZH,108,Bezirk Pfäffikon,Bezirk Pfäffikon,,,,,0,
+10277,121,Wetzikon (ZH),1,ZH,105,Bezirk Hinwil,Bezirk Hinwil,Ausserhalb,,,,0,
+11745,131,Adliswil,1,ZH,106,Bezirk Horgen,Bezirk Horgen,Ausserhalb,,,,0,
+12701,135,Kilchberg (ZH),1,ZH,106,Bezirk Horgen,Bezirk Horgen,Ausserhalb,,,,0,
+12637,136,Langnau am Albis,1,ZH,106,Bezirk Horgen,Bezirk Horgen,Ausserhalb,,,,0,
+12461,137,Oberrieden,1,ZH,106,Bezirk Horgen,Bezirk Horgen,Ausserhalb,,,,0,
+12907,138,Richterswil,1,ZH,106,Bezirk Horgen,Bezirk Horgen,Ausserhalb,,,,0,
+12832,139,Rüschlikon,1,ZH,106,Bezirk Horgen,Bezirk Horgen,Ausserhalb,,,,0,
+10691,141,Thalwil,1,ZH,106,Bezirk Horgen,Bezirk Horgen,Ausserhalb,,,,0,
+12301,151,Erlenbach (ZH),1,ZH,107,Bezirk Meilen,Bezirk Meilen,Ausserhalb,,,,0,
+12316,152,Herrliberg,1,ZH,107,Bezirk Meilen,Bezirk Meilen,Ausserhalb,,,Bezirk Meilen,0,
+12143,153,Hombrechtikon,1,ZH,107,Bezirk Meilen,Bezirk Meilen,Ausserhalb,,,,0,
+12592,154,Küsnacht (ZH),1,ZH,107,Bezirk Meilen,Bezirk Meilen,Ausserhalb,,,Bezirk Meilen,0,
+12754,155,Männedorf,1,ZH,107,Bezirk Meilen,Bezirk Meilen,Ausserhalb,,,Bezirk Meilen,0,
+12408,156,Meilen,1,ZH,107,Bezirk Meilen,Bezirk Meilen,Ausserhalb,,,Bezirk Meilen,0,
+12501,157,Oetwil am See,1,ZH,107,Bezirk Meilen,Bezirk Meilen,Ausserhalb,,,,0,
+10363,158,Stäfa,1,ZH,107,Bezirk Meilen,Bezirk Meilen,Ausserhalb,,,,0,
+13259,159,Uetikon am See,1,ZH,107,Bezirk Meilen,Bezirk Meilen,Ausserhalb,,,Bezirk Meilen,0,
+10326,160,Zumikon,1,ZH,107,Bezirk Meilen,Bezirk Meilen,Ausserhalb,,,,0,
+13683,161,Zollikon,1,ZH,107,Bezirk Meilen,Bezirk Meilen,Ausserhalb,,,,0,
+11989,172,Fehraltorf,1,ZH,108,Bezirk Pfäffikon,Bezirk Pfäffikon,Ausserhalb,,,,0,
+12161,173,Hittnau,1,ZH,108,Bezirk Pfäffikon,Bezirk Pfäffikon,Ausserhalb,,,,0,
+12821,176,Lindau,1,ZH,108,Bezirk Pfäffikon,Bezirk Pfäffikon,Ausserhalb,,,,0,
+13137,177,Pfäffikon,1,ZH,108,Bezirk Pfäffikon,Bezirk Pfäffikon,Ausserhalb,,,,0,
+12831,178,Russikon,1,ZH,108,Bezirk Pfäffikon,Bezirk Pfäffikon,Ausserhalb,,,,0,
+10389,180,Weisslingen,1,ZH,108,Bezirk Pfäffikon,Bezirk Pfäffikon,Ausserhalb,,,,0,
 10242,181,Wila,1,ZH,108,Bezirk Pfäffikon,Zürcher Berggebiet,Art. 1 Abs. 2,RIS Ost,,,0,
 10334,182,Wildberg,1,ZH,108,Bezirk Pfäffikon,Zürcher Berggebiet,Art. 1 Abs. 2,RIS Ost,,,0,
-12205,191,Dübendorf,1,ZH,109,Bezirk Uster,Bezirk Uster,,,,,0,
-12123,192,Egg,1,ZH,109,Bezirk Uster,Bezirk Uster,,,,,0,
-12248,193,Fällanden,1,ZH,109,Bezirk Uster,Bezirk Uster,,,,,0,
-12073,194,Greifensee,1,ZH,109,Bezirk Uster,Bezirk Uster,,,,,0,
-12620,195,Maur,1,ZH,109,Bezirk Uster,Bezirk Uster,,,,,0,
-12427,196,Mönchaltorf,1,ZH,109,Bezirk Uster,Bezirk Uster,,,,,0,
-12956,197,Schwerzenbach,1,ZH,109,Bezirk Uster,Bezirk Uster,,,,,0,
-10940,198,Uster,1,ZH,109,Bezirk Uster,Bezirk Uster,,,,,0,
-10368,199,Volketswil,1,ZH,109,Bezirk Uster,Bezirk Uster,,,,,0,
-13250,200,Wangen-Brüttisellen,1,ZH,109,Bezirk Uster,Bezirk Uster,,,,,0,
-11777,211,Altikon,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,,,,,0,
-11467,213,Brütten,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,,,,,0,
-11574,214,Dägerlen,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,,,,,0,
-11583,215,Dättlikon,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,,,,,0,
-11565,216,Dinhard,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,,,,,0,
-12144,218,Ellikon an der Thur,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,,,,,0,
-12294,219,Elsau,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,,,,,0,
-12001,220,Hagenbuch,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,,,,,0,
-12283,221,Hettlingen,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,,,,,0,
-15514,223,Neftenbach,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,,,,,0,
-13145,224,Pfungen,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,,,,,0,
-12889,225,Rickenbach (ZH),1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,,,,,0,
+12205,191,Dübendorf,1,ZH,109,Bezirk Uster,Bezirk Uster,Ausserhalb,,,,0,
+12123,192,Egg,1,ZH,109,Bezirk Uster,Bezirk Uster,Ausserhalb,,,,0,
+12248,193,Fällanden,1,ZH,109,Bezirk Uster,Bezirk Uster,Ausserhalb,,,,0,
+12073,194,Greifensee,1,ZH,109,Bezirk Uster,Bezirk Uster,Ausserhalb,,,,0,
+12620,195,Maur,1,ZH,109,Bezirk Uster,Bezirk Uster,Ausserhalb,,,,0,
+12427,196,Mönchaltorf,1,ZH,109,Bezirk Uster,Bezirk Uster,Ausserhalb,,,,0,
+12956,197,Schwerzenbach,1,ZH,109,Bezirk Uster,Bezirk Uster,Ausserhalb,,,,0,
+10940,198,Uster,1,ZH,109,Bezirk Uster,Bezirk Uster,Ausserhalb,,,,0,
+10368,199,Volketswil,1,ZH,109,Bezirk Uster,Bezirk Uster,Ausserhalb,,,,0,
+13250,200,Wangen-Brüttisellen,1,ZH,109,Bezirk Uster,Bezirk Uster,Ausserhalb,,,,0,
+11777,211,Altikon,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,Ausserhalb,,,,0,
+11467,213,Brütten,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,Ausserhalb,,,,0,
+11574,214,Dägerlen,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,Ausserhalb,,,,0,
+11583,215,Dättlikon,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,Ausserhalb,,,,0,
+11565,216,Dinhard,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,Ausserhalb,,,,0,
+12144,218,Ellikon an der Thur,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,Ausserhalb,,,,0,
+12294,219,Elsau,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,Ausserhalb,,,,0,
+12001,220,Hagenbuch,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,Ausserhalb,,,,0,
+12283,221,Hettlingen,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,Ausserhalb,,,,0,
+15514,223,Neftenbach,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,Ausserhalb,,,,0,
+13145,224,Pfungen,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,Ausserhalb,,,,0,
+12889,225,Rickenbach (ZH),1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,Ausserhalb,,,,0,
 14120,226,Schlatt (ZH),1,ZH,110,Bezirk Winterthur,Zürcher Berggebiet,Art. 1 Abs. 2,RIS Ost,,,0,
-12977,227,Seuzach,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,,,,,0,
+12977,227,Seuzach,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,Ausserhalb,,,,0,
 10857,228,Turbenthal,1,ZH,110,Bezirk Winterthur,Zürcher Berggebiet,Art. 1 Abs. 2,RIS Ost,,,0,
-10347,230,Winterthur,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,,,,,0,
-10312,231,Zell (ZH),1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,,,,,0,
-14365,241,Aesch (ZH),1,ZH,111,Bezirk Dietikon,Bezirk Dietikon,,,,,0,
-13690,242,Birmensdorf (ZH),1,ZH,111,Bezirk Dietikon,Bezirk Dietikon,,,,,0,
-13691,243,Dietikon,1,ZH,111,Bezirk Dietikon,Bezirk Dietikon,,,,,0,
-13692,244,Geroldswil,1,ZH,111,Bezirk Dietikon,Bezirk Dietikon,,,,,0,
-13693,245,Oberengstringen,1,ZH,111,Bezirk Dietikon,Bezirk Dietikon,,,,,0,
-13694,246,Oetwil an der Limmat,1,ZH,111,Bezirk Dietikon,Bezirk Dietikon,,,,,0,
-13695,247,Schlieren,1,ZH,111,Bezirk Dietikon,Bezirk Dietikon,,,,,0,
-13696,248,Uitikon,1,ZH,111,Bezirk Dietikon,Bezirk Dietikon,,,,,0,
-13697,249,Unterengstringen,1,ZH,111,Bezirk Dietikon,Bezirk Dietikon,,,,,0,
-13698,250,Urdorf,1,ZH,111,Bezirk Dietikon,Bezirk Dietikon,,,,,0,
-13699,251,Weiningen (ZH),1,ZH,111,Bezirk Dietikon,Bezirk Dietikon,,,,,0,
-13688,261,Zürich,1,ZH,112,Bezirk Zürich,Bezirk Zürich,,,,,0,
+10347,230,Winterthur,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,Ausserhalb,,,,0,
+10312,231,Zell (ZH),1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,Ausserhalb,,,,0,
+14365,241,Aesch (ZH),1,ZH,111,Bezirk Dietikon,Bezirk Dietikon,Ausserhalb,,,,0,
+13690,242,Birmensdorf (ZH),1,ZH,111,Bezirk Dietikon,Bezirk Dietikon,Ausserhalb,,,,0,
+13691,243,Dietikon,1,ZH,111,Bezirk Dietikon,Bezirk Dietikon,Ausserhalb,,,,0,
+13692,244,Geroldswil,1,ZH,111,Bezirk Dietikon,Bezirk Dietikon,Ausserhalb,,,,0,
+13693,245,Oberengstringen,1,ZH,111,Bezirk Dietikon,Bezirk Dietikon,Ausserhalb,,,,0,
+13694,246,Oetwil an der Limmat,1,ZH,111,Bezirk Dietikon,Bezirk Dietikon,Ausserhalb,,,,0,
+13695,247,Schlieren,1,ZH,111,Bezirk Dietikon,Bezirk Dietikon,Ausserhalb,,,,0,
+13696,248,Uitikon,1,ZH,111,Bezirk Dietikon,Bezirk Dietikon,Ausserhalb,,,,0,
+13697,249,Unterengstringen,1,ZH,111,Bezirk Dietikon,Bezirk Dietikon,Ausserhalb,,,,0,
+13698,250,Urdorf,1,ZH,111,Bezirk Dietikon,Bezirk Dietikon,Ausserhalb,,,,0,
+13699,251,Weiningen (ZH),1,ZH,111,Bezirk Dietikon,Bezirk Dietikon,Ausserhalb,,,,0,
+13688,261,Zürich,1,ZH,112,Bezirk Zürich,Bezirk Zürich,Ausserhalb,,,,0,
 16621,291,Andelfingen,1,ZH,102,Bezirk Andelfingen,Zürcher Weinland,Art. 1 Abs. 2,RIS Ost,,,0,
 16122,292,Stammheim,1,ZH,102,Bezirk Andelfingen,Zürcher Weinland,Art. 1 Abs. 2,RIS Ost,,Zürcher Weinland,0,
-16123,293,Wädenswil,1,ZH,106,Bezirk Horgen,Bezirk Horgen,,,,,0,
+16123,293,Wädenswil,1,ZH,106,Bezirk Horgen,Bezirk Horgen,Ausserhalb,,,,0,
 16081,294,Elgg,1,ZH,110,Bezirk Winterthur,Zürcher Berggebiet,Art. 1 Abs. 2,RIS Ost,,,0,
-16080,295,Horgen,1,ZH,106,Bezirk Horgen,Bezirk Horgen,,,,,0,
-15671,296,Illnau-Effretikon,1,ZH,108,Bezirk Pfäffikon,Bezirk Pfäffikon,,,,,0,
+16080,295,Horgen,1,ZH,106,Bezirk Horgen,Bezirk Horgen,Ausserhalb,,,,0,
+15671,296,Illnau-Effretikon,1,ZH,108,Bezirk Pfäffikon,Bezirk Pfäffikon,Ausserhalb,,,,0,
 15653,297,Bauma,1,ZH,108,Bezirk Pfäffikon,Zürcher Berggebiet,Art. 1 Abs. 2,RIS Ost,,,0,
-15631,298,Wiesendangen,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,,,,,0,
+15631,298,Wiesendangen,1,ZH,110,Bezirk Winterthur,Bezirk Winterthur,Ausserhalb,,,,0,
 14995,301,Aarberg,2,BE,243,Verwaltungskreis Seeland,Verein Seeland.Biel-Bienne,Art. 1 Abs. 1,RIS Mittelland; RIS Suisse Occidentale,Arc Jurassien,,0,
 14996,302,Bargen (BE),2,BE,243,Verwaltungskreis Seeland,Verein Seeland.Biel-Bienne,Art. 1 Abs. 1,RIS Mittelland; RIS Suisse Occidentale,Arc Jurassien,,0,
 14997,303,Grossaffoltern,2,BE,243,Verwaltungskreis Seeland,Verein Seeland.Biel-Bienne,Art. 1 Abs. 1,RIS Mittelland; RIS Suisse Occidentale,Arc Jurassien,,0,
 16124,304,Kallnach,2,BE,243,Verwaltungskreis Seeland,Verein Seeland.Biel-Bienne,Art. 1 Abs. 1,RIS Mittelland; RIS Suisse Occidentale,Arc Jurassien,,0,
 14999,305,Kappelen,2,BE,243,Verwaltungskreis Seeland,Verein Seeland.Biel-Bienne,Art. 1 Abs. 1,RIS Mittelland; RIS Suisse Occidentale,Arc Jurassien,,0,
 15474,306,Lyss,2,BE,243,Verwaltungskreis Seeland,Verein Seeland.Biel-Bienne,Art. 1 Abs. 1,RIS Mittelland; RIS Suisse Occidentale,Arc Jurassien,,0,
-15001,307,Meikirch,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
+15001,307,Meikirch,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
 15003,309,Radelfingen,2,BE,243,Verwaltungskreis Seeland,Verein Seeland.Biel-Bienne,Art. 1 Abs. 1,RIS Mittelland; RIS Suisse Occidentale,Arc Jurassien,,0,
 15672,310,Rapperswil (BE),2,BE,243,Verwaltungskreis Seeland,Verein Seeland.Biel-Bienne,Art. 1 Abs. 1,RIS Mittelland; RIS Suisse Occidentale,Arc Jurassien,,0,
-15005,311,Schüpfen,2,BE,243,Verwaltungskreis Seeland,Verein Seeland.Biel-Bienne,,RIS Mittelland; RIS Suisse Occidentale,Arc Jurassien,,0,
+15005,311,Schüpfen,2,BE,243,Verwaltungskreis Seeland,Verein Seeland.Biel-Bienne,Ausserhalb,RIS Mittelland; RIS Suisse Occidentale,Arc Jurassien,,0,
 15006,312,Seedorf (BE),2,BE,243,Verwaltungskreis Seeland,Verein Seeland.Biel-Bienne,Art. 1 Abs. 1,RIS Mittelland; RIS Suisse Occidentale,Arc Jurassien,,0,
 15007,321,Aarwangen,2,BE,244,Verwaltungskreis Oberaargau,Oberaargau,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15008,322,Auswil,2,BE,244,Verwaltungskreis Oberaargau,Oberaargau,Art. 1 Abs. 1,RIS Mittelland,,,0,
@@ -190,19 +190,19 @@
 15026,342,Thunstetten,2,BE,244,Verwaltungskreis Oberaargau,Oberaargau,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15027,344,Ursenbach,2,BE,244,Verwaltungskreis Oberaargau,Oberaargau,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15028,345,Wynau,2,BE,244,Verwaltungskreis Oberaargau,Oberaargau,Art. 1 Abs. 1,RIS Mittelland,,,0,
-15029,351,Bern,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
-15030,352,Bolligen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
-15031,353,Bremgarten bei Bern,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
-15032,354,Kirchlindach,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
-15033,355,Köniz,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
-15034,356,Muri bei Bern,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
+15029,351,Bern,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
+15030,352,Bolligen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
+15031,353,Bremgarten bei Bern,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
+15032,354,Kirchlindach,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
+15033,355,Köniz,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
+15034,356,Muri bei Bern,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
 15035,357,Oberbalm,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
-15036,358,Stettlen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
-15037,359,Vechigen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
-15038,360,Wohlen bei Bern,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
-15039,361,Zollikofen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
-15040,362,Ittigen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
-15041,363,Ostermundigen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
+15036,358,Stettlen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
+15037,359,Vechigen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
+15038,360,Wohlen bei Bern,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
+15039,361,Zollikofen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
+15040,362,Ittigen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
+15041,363,Ostermundigen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
 15042,371,Biel/Bienne,2,BE,242,Verwaltungskreis Biel/Bienne,Verein Seeland.Biel-Bienne,Art. 1 Abs. 1,RIS Mittelland; RIS Suisse Occidentale,Arc Jurassien,,0,
 15043,372,Evilard,2,BE,242,Verwaltungskreis Biel/Bienne,Verein Seeland.Biel-Bienne,Art. 1 Abs. 1,RIS Mittelland; RIS Suisse Occidentale,Arc Jurassien,,0,
 15044,381,Arch,2,BE,243,Verwaltungskreis Seeland,Verein Seeland.Biel-Bienne,Art. 1 Abs. 1,RIS Mittelland; RIS Suisse Occidentale,Arc Jurassien,,0,
@@ -220,7 +220,7 @@
 15057,394,Wengi,2,BE,243,Verwaltungskreis Seeland,Verein Seeland.Biel-Bienne,Art. 1 Abs. 1,RIS Mittelland; RIS Suisse Occidentale,Arc Jurassien,,0,
 15058,401,Aefligen,2,BE,245,Verwaltungskreis Emmental,Regionalkonferenz Emmental,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15059,402,Alchenstorf,2,BE,245,Verwaltungskreis Emmental,Regionalkonferenz Emmental,Art. 1 Abs. 1,RIS Mittelland,,,0,
-15060,403,Bäriswil,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
+15060,403,Bäriswil,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
 15061,404,Burgdorf,2,BE,245,Verwaltungskreis Emmental,Regionalkonferenz Emmental,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15673,405,Ersigen,2,BE,245,Verwaltungskreis Emmental,Regionalkonferenz Emmental,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15063,406,Hasle bei Burgdorf,2,BE,245,Verwaltungskreis Emmental,Regionalkonferenz Emmental,Art. 1 Abs. 1,RIS Mittelland,,,0,
@@ -269,13 +269,13 @@
 15111,502,Vinelz,2,BE,243,Verwaltungskreis Seeland,Verein Seeland.Biel-Bienne,Art. 1 Abs. 1,RIS Mittelland; RIS Suisse Occidentale,Arc Jurassien,,0,
 15113,533,Bätterkinden,2,BE,245,Verwaltungskreis Emmental,Regionalkonferenz Emmental,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15115,535,Deisswil bei Münchenbuchsee,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
-15633,538,Fraubrunnen,2,BE,246,Verwaltungskreis Bern-Mittelland,Regionalkonferenz Emmental,,RIS Mittelland,,,0,
-15634,540,Jegenstorf,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
+15633,538,Fraubrunnen,2,BE,246,Verwaltungskreis Bern-Mittelland,Regionalkonferenz Emmental,Ausserhalb,RIS Mittelland,,,0,
+15634,540,Jegenstorf,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
 15120,541,Iffwil,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
-15122,543,Mattstetten,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
-15123,544,Moosseedorf,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
-16622,546,Münchenbuchsee,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
-15130,551,Urtenen-Schönbühl,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
+15122,543,Mattstetten,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
+15123,544,Moosseedorf,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
+16622,546,Münchenbuchsee,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
+15130,551,Urtenen-Schönbühl,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
 15131,552,Utzenstorf,2,BE,245,Verwaltungskreis Emmental,Regionalkonferenz Emmental,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15132,553,Wiggiswil,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15133,554,Wiler bei Utzenstorf,2,BE,245,Verwaltungskreis Emmental,Regionalkonferenz Emmental,Art. 1 Abs. 1,RIS Mittelland,,,0,
@@ -324,26 +324,26 @@
 15178,613,Landiswil,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15179,614,Linden,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15180,615,Mirchel,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
-15688,616,Münsingen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
+15688,616,Münsingen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
 15182,617,Niederhünigen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15635,619,Oberdiessbach,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15183,620,Oberthal,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15184,622,Oppligen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
-15185,623,Rubigen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
+15185,623,Rubigen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
 15188,626,Walkringen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
-15189,627,Worb,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
+15189,627,Worb,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
 15190,628,Zäziwil,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15191,629,Oberhünigen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
-15192,630,Allmendingen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
-15194,632,Wichtrach,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
+15192,630,Allmendingen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
+15194,632,Wichtrach,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
 15196,662,Ferenbalm,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
-15197,663,Frauenkappelen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
+15197,663,Frauenkappelen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
 15199,665,Gurbrü,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15200,666,Kriechenwil,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
-15201,667,Laupen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
+15201,667,Laupen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
 15202,668,Mühleberg,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15203,669,Münchenwiler,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
-15204,670,Neuenegg,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
+15204,670,Neuenegg,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
 15205,671,Wileroltigen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15206,681,Belprahon,2,BE,241,Arrondissement administratif Jura bernois,Jura bernois.Bienne,Art. 1 Abs. 1,RIS Mittelland; RIS Suisse Occidentale,Arc Jurassien,,0,
 15208,683,Champoz,2,BE,241,Arrondissement administratif Jura bernois,Jura bernois.Bienne,Art. 1 Abs. 1,RIS Mittelland; RIS Suisse Occidentale,Arc Jurassien,,0,
@@ -416,19 +416,19 @@
 15283,852,Guggisberg,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15284,853,Rüschegg,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15476,855,Schwarzenburg,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
-15498,861,Belp,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
+15498,861,Belp,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
 15288,863,Burgistein,2,BE,247,Verwaltungskreis Thun,Entwicklungsraum Thun,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15290,866,Gerzensee,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15291,867,Gurzelen,2,BE,247,Verwaltungskreis Thun,Entwicklungsraum Thun,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15292,868,Jaberg,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
-15293,869,Kaufdorf,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
-15294,870,Kehrsatz,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
+15293,869,Kaufdorf,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
+15294,870,Kehrsatz,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
 16083,872,Kirchdorf (BE),2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15301,877,Niedermuhlern,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
 16608,879,Riggisberg,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15304,880,Rüeggisberg,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15306,883,Seftigen,2,BE,247,Verwaltungskreis Thun,Entwicklungsraum Thun,Art. 1 Abs. 1,RIS Mittelland,,,0,
-15307,884,Toffen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,,RIS Mittelland,,,0,
+15307,884,Toffen,2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Ausserhalb,RIS Mittelland,,,0,
 15639,885,Uttigen,2,BE,247,Verwaltungskreis Thun,Entwicklungsraum Thun,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15309,886,Wattenwil,2,BE,247,Verwaltungskreis Thun,Entwicklungsraum Thun,Art. 1 Abs. 1,RIS Mittelland,,,0,
 15310,888,Wald (BE),2,BE,246,Verwaltungskreis Bern-Mittelland,Bern-Mittelland,Art. 1 Abs. 1,RIS Mittelland,,,0,
@@ -597,9 +597,9 @@
 10442,1220,Wassen,4,UR,400,Kanton Uri,Oberes Reusstal,Art. 1 Abs. 1,RIS Zentralschweiz,Programm San Gottardo,,0,
 12152,1301,Einsiedeln,5,SZ,501,Bezirk Einsiedeln,Einsiedeln-Ybrig-Zürichsee,Art. 1 Abs. 1,RIS Zentralschweiz,,,0,
 12033,1311,Gersau,5,SZ,502,Bezirk Gersau,Rigi,Art. 1 Abs. 1,RIS Zentralschweiz,,,0,
-12007,1321,Feusisberg,5,SZ,503,Bezirk Höfe,Einsiedeln-Ybrig-Zürichsee,,RIS Zentralschweiz,,,0,
-11961,1322,Freienbach,5,SZ,503,Bezirk Höfe,Einsiedeln-Ybrig-Zürichsee,,RIS Zentralschweiz,,,0,
-10314,1323,Wollerau,5,SZ,503,Bezirk Höfe,Einsiedeln-Ybrig-Zürichsee,,RIS Zentralschweiz,,,0,
+12007,1321,Feusisberg,5,SZ,503,Bezirk Höfe,Einsiedeln-Ybrig-Zürichsee,Ausserhalb,RIS Zentralschweiz,,,0,
+11961,1322,Freienbach,5,SZ,503,Bezirk Höfe,Einsiedeln-Ybrig-Zürichsee,Ausserhalb,RIS Zentralschweiz,,,0,
+10314,1323,Wollerau,5,SZ,503,Bezirk Höfe,Einsiedeln-Ybrig-Zürichsee,Ausserhalb,RIS Zentralschweiz,,,0,
 14470,1331,Küssnacht (SZ),5,SZ,504,Bezirk Küssnacht (SZ),Rigi,Art. 1 Abs. 1,RIS Zentralschweiz,,,0,
 11774,1341,Altendorf,5,SZ,505,Bezirk March,Einsiedeln-Ybrig-Zürichsee,Art. 1 Abs. 1,RIS Zentralschweiz,,,0,
 12075,1342,Galgenen,5,SZ,505,Bezirk March,Einsiedeln-Ybrig-Zürichsee,Art. 1 Abs. 1,RIS Zentralschweiz,,,0,
@@ -646,17 +646,17 @@
 15479,1630,Glarus Nord,8,GL,800,Kanton Glarus,Glarus Nord,Art. 1 Abs. 1,RIS Ost,,,0,
 15478,1631,Glarus Süd,8,GL,800,Kanton Glarus,Glarus Süd,Art. 1 Abs. 1,RIS Ost,,,0,
 15480,1632,Glarus,8,GL,800,Kanton Glarus,Glarus Mitte,Art. 1 Abs. 1,RIS Ost,,,0,
-11711,1701,Baar,9,ZG,900,Kanton Zug,Kanton Zug,,RIS Zentralschweiz,,,1,Kanton ausgeschrieben
-11397,1702,Cham,9,ZG,900,Kanton Zug,Kanton Zug,,RIS Zentralschweiz,,,1,Kanton ausgeschrieben
-12176,1703,Hünenberg,9,ZG,900,Kanton Zug,Kanton Zug,,RIS Zentralschweiz,,,1,Kanton ausgeschrieben
-12389,1704,Menzingen,9,ZG,900,Kanton Zug,Kanton Zug,,RIS Zentralschweiz,,,1,Kanton ausgeschrieben
-12517,1705,Neuheim,9,ZG,900,Kanton Zug,Kanton Zug,,RIS Zentralschweiz,,,1,Kanton ausgeschrieben
-12551,1706,Oberägeri,9,ZG,900,Kanton Zug,Kanton Zug,,RIS Zentralschweiz,,,1,Kanton ausgeschrieben
-12931,1707,Risch,9,ZG,900,Kanton Zug,Kanton Zug,,RIS Zentralschweiz,,,1,Kanton ausgeschrieben
-10598,1708,Steinhausen,9,ZG,900,Kanton Zug,Kanton Zug,,RIS Zentralschweiz,,,1,Kanton ausgeschrieben
-10844,1709,Unterägeri,9,ZG,900,Kanton Zug,Kanton Zug,,RIS Zentralschweiz,,,1,Kanton ausgeschrieben
-10457,1710,Walchwil,9,ZG,900,Kanton Zug,Kanton Zug,,RIS Zentralschweiz,,,1,Kanton ausgeschrieben
-10323,1711,Zug,9,ZG,900,Kanton Zug,Kanton Zug,,RIS Zentralschweiz,,,1,Kanton ausgeschrieben
+11711,1701,Baar,9,ZG,900,Kanton Zug,Kanton Zug,Ausserhalb,RIS Zentralschweiz,,,1,Kanton ausgeschrieben
+11397,1702,Cham,9,ZG,900,Kanton Zug,Kanton Zug,Ausserhalb,RIS Zentralschweiz,,,1,Kanton ausgeschrieben
+12176,1703,Hünenberg,9,ZG,900,Kanton Zug,Kanton Zug,Ausserhalb,RIS Zentralschweiz,,,1,Kanton ausgeschrieben
+12389,1704,Menzingen,9,ZG,900,Kanton Zug,Kanton Zug,Ausserhalb,RIS Zentralschweiz,,,1,Kanton ausgeschrieben
+12517,1705,Neuheim,9,ZG,900,Kanton Zug,Kanton Zug,Ausserhalb,RIS Zentralschweiz,,,1,Kanton ausgeschrieben
+12551,1706,Oberägeri,9,ZG,900,Kanton Zug,Kanton Zug,Ausserhalb,RIS Zentralschweiz,,,1,Kanton ausgeschrieben
+12931,1707,Risch,9,ZG,900,Kanton Zug,Kanton Zug,Ausserhalb,RIS Zentralschweiz,,,1,Kanton ausgeschrieben
+10598,1708,Steinhausen,9,ZG,900,Kanton Zug,Kanton Zug,Ausserhalb,RIS Zentralschweiz,,,1,Kanton ausgeschrieben
+10844,1709,Unterägeri,9,ZG,900,Kanton Zug,Kanton Zug,Ausserhalb,RIS Zentralschweiz,,,1,Kanton ausgeschrieben
+10457,1710,Walchwil,9,ZG,900,Kanton Zug,Kanton Zug,Ausserhalb,RIS Zentralschweiz,,,1,Kanton ausgeschrieben
+10323,1711,Zug,9,ZG,900,Kanton Zug,Kanton Zug,Ausserhalb,RIS Zentralschweiz,,,1,Kanton ausgeschrieben
 11419,2008,Châtillon (FR),10,FR,1001,District de la Broye,Communauté régionale de la Broye,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14510,2011,Cugy (FR),10,FR,1001,District de la Broye,Communauté régionale de la Broye,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 11974,2016,Fétigny,10,FR,1001,District de la Broye,Communauté régionale de la Broye,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
@@ -891,24 +891,24 @@
 12385,2620,Meltingen,11,SO,1110,Bezirk Thierstein,Schwarzbubenland,Art. 1 Abs. 2,,,,0,
 12546,2621,Nunningen,11,SO,1110,Bezirk Thierstein,Schwarzbubenland,Art. 1 Abs. 2,,,,0,
 10324,2622,Zullwil,11,SO,1110,Bezirk Thierstein,Schwarzbubenland,Art. 1 Abs. 2,,,,0,
-11693,2701,Basel,12,BS,1200,Kanton Basel-Stadt,Kanton Basel-Stadt,,RIS Basel-Jura,,,1,Kanton ausgeschrieben
-11907,2702,Bettingen,12,BS,1200,Kanton Basel-Stadt,Kanton Basel-Stadt,,RIS Basel-Jura,,,1,Kanton ausgeschrieben
-12895,2703,Riehen,12,BS,1200,Kanton Basel-Stadt,Kanton Basel-Stadt,,RIS Basel-Jura,,,1,Kanton ausgeschrieben
-13824,2761,Aesch (BL),13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,,RIS Basel-Jura,,Birsstadt,1,Kanton ausgeschrieben
-13825,2762,Allschwil,13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,,RIS Basel-Jura,,,1,Kanton ausgeschrieben
-13826,2763,Arlesheim,13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,,RIS Basel-Jura,,Birsstadt,1,Kanton ausgeschrieben
-13827,2764,Biel-Benken,13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,,RIS Basel-Jura,,,1,Kanton ausgeschrieben
-13828,2765,Binningen,13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,,RIS Basel-Jura,,,1,Kanton ausgeschrieben
-13829,2766,Birsfelden,13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,,RIS Basel-Jura,,Birsstadt,1,Kanton ausgeschrieben
-13830,2767,Bottmingen,13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,,RIS Basel-Jura,,,1,Kanton ausgeschrieben
-13831,2768,Ettingen,13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,,RIS Basel-Jura,,,1,Kanton ausgeschrieben
-13832,2769,Münchenstein,13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,,RIS Basel-Jura,,Birsstadt,1,Kanton ausgeschrieben
-13833,2770,Muttenz,13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,,RIS Basel-Jura,,Birsstadt,1,Kanton ausgeschrieben
-13834,2771,Oberwil (BL),13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,,RIS Basel-Jura,,,1,Kanton ausgeschrieben
-13835,2772,Pfeffingen,13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,,RIS Basel-Jura,,Birsstadt,1,Kanton ausgeschrieben
-13836,2773,Reinach (BL),13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,,RIS Basel-Jura,,Birsstadt,1,Kanton ausgeschrieben
-13837,2774,Schönenbuch,13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,,RIS Basel-Jura,,,1,Kanton ausgeschrieben
-13838,2775,Therwil,13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,,RIS Basel-Jura,,,1,Kanton ausgeschrieben
+11693,2701,Basel,12,BS,1200,Kanton Basel-Stadt,Kanton Basel-Stadt,Ausserhalb,RIS Basel-Jura,,,1,Kanton ausgeschrieben
+11907,2702,Bettingen,12,BS,1200,Kanton Basel-Stadt,Kanton Basel-Stadt,Ausserhalb,RIS Basel-Jura,,,1,Kanton ausgeschrieben
+12895,2703,Riehen,12,BS,1200,Kanton Basel-Stadt,Kanton Basel-Stadt,Ausserhalb,RIS Basel-Jura,,,1,Kanton ausgeschrieben
+13824,2761,Aesch (BL),13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,Birsstadt,1,Kanton ausgeschrieben
+13825,2762,Allschwil,13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,,1,Kanton ausgeschrieben
+13826,2763,Arlesheim,13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,Birsstadt,1,Kanton ausgeschrieben
+13827,2764,Biel-Benken,13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,,1,Kanton ausgeschrieben
+13828,2765,Binningen,13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,,1,Kanton ausgeschrieben
+13829,2766,Birsfelden,13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,Birsstadt,1,Kanton ausgeschrieben
+13830,2767,Bottmingen,13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,,1,Kanton ausgeschrieben
+13831,2768,Ettingen,13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,,1,Kanton ausgeschrieben
+13832,2769,Münchenstein,13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,Birsstadt,1,Kanton ausgeschrieben
+13833,2770,Muttenz,13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,Birsstadt,1,Kanton ausgeschrieben
+13834,2771,Oberwil (BL),13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,,1,Kanton ausgeschrieben
+13835,2772,Pfeffingen,13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,Birsstadt,1,Kanton ausgeschrieben
+13836,2773,Reinach (BL),13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,Birsstadt,1,Kanton ausgeschrieben
+13837,2774,Schönenbuch,13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,,1,Kanton ausgeschrieben
+13838,2775,Therwil,13,BL,1301,Bezirk Arlesheim,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,,1,Kanton ausgeschrieben
 13839,2781,Blauen,13,BL,1302,Bezirk Laufen,Kanton Basel-Landschaft,Art. 1 Abs. 2,RIS Basel-Jura,,,1,Kanton ausgeschrieben
 13840,2782,Brislach,13,BL,1302,Bezirk Laufen,Kanton Basel-Landschaft,Art. 1 Abs. 2,RIS Basel-Jura,,,1,Kanton ausgeschrieben
 13841,2783,Burg im Leimental,13,BL,1302,Bezirk Laufen,Kanton Basel-Landschaft,Art. 1 Abs. 2,RIS Basel-Jura,,,1,Kanton ausgeschrieben
@@ -922,20 +922,20 @@
 13849,2791,Röschenz,13,BL,1302,Bezirk Laufen,Kanton Basel-Landschaft,Art. 1 Abs. 2,RIS Basel-Jura,,,1,Kanton ausgeschrieben
 13850,2792,Wahlen,13,BL,1302,Bezirk Laufen,Kanton Basel-Landschaft,Art. 1 Abs. 2,RIS Basel-Jura,,,1,Kanton ausgeschrieben
 13851,2793,Zwingen,13,BL,1302,Bezirk Laufen,Kanton Basel-Landschaft,Art. 1 Abs. 2,RIS Basel-Jura,,,1,Kanton ausgeschrieben
-13766,2821,Arisdorf,13,BL,1303,Bezirk Liestal,Kanton Basel-Landschaft,,RIS Basel-Jura,,,1,Kanton ausgeschrieben
-13767,2822,Augst,13,BL,1303,Bezirk Liestal,Kanton Basel-Landschaft,,RIS Basel-Jura,,,1,Kanton ausgeschrieben
-13768,2823,Bubendorf,13,BL,1303,Bezirk Liestal,Kanton Basel-Landschaft,,RIS Basel-Jura,,,1,Kanton ausgeschrieben
-13769,2824,Frenkendorf,13,BL,1303,Bezirk Liestal,Kanton Basel-Landschaft,,RIS Basel-Jura,,,1,Kanton ausgeschrieben
-13770,2825,Füllinsdorf,13,BL,1303,Bezirk Liestal,Kanton Basel-Landschaft,,RIS Basel-Jura,,,1,Kanton ausgeschrieben
-13771,2826,Giebenach,13,BL,1303,Bezirk Liestal,Kanton Basel-Landschaft,,RIS Basel-Jura,,,1,Kanton ausgeschrieben
+13766,2821,Arisdorf,13,BL,1303,Bezirk Liestal,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,,1,Kanton ausgeschrieben
+13767,2822,Augst,13,BL,1303,Bezirk Liestal,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,,1,Kanton ausgeschrieben
+13768,2823,Bubendorf,13,BL,1303,Bezirk Liestal,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,,1,Kanton ausgeschrieben
+13769,2824,Frenkendorf,13,BL,1303,Bezirk Liestal,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,,1,Kanton ausgeschrieben
+13770,2825,Füllinsdorf,13,BL,1303,Bezirk Liestal,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,,1,Kanton ausgeschrieben
+13771,2826,Giebenach,13,BL,1303,Bezirk Liestal,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,,1,Kanton ausgeschrieben
 13772,2827,Hersberg,13,BL,1303,Bezirk Liestal,Kanton Basel-Landschaft,Art. 1 Abs. 2,RIS Basel-Jura,,,1,Kanton ausgeschrieben
-13773,2828,Lausen,13,BL,1303,Bezirk Liestal,Kanton Basel-Landschaft,,RIS Basel-Jura,,,1,Kanton ausgeschrieben
-13774,2829,Liestal,13,BL,1303,Bezirk Liestal,Kanton Basel-Landschaft,,RIS Basel-Jura,,,1,Kanton ausgeschrieben
-13775,2830,Lupsingen,13,BL,1303,Bezirk Liestal,Kanton Basel-Landschaft,,RIS Basel-Jura,,,1,Kanton ausgeschrieben
-13776,2831,Pratteln,13,BL,1303,Bezirk Liestal,Kanton Basel-Landschaft,,RIS Basel-Jura,,,1,Kanton ausgeschrieben
-13777,2832,Ramlinsburg,13,BL,1303,Bezirk Liestal,Kanton Basel-Landschaft,,RIS Basel-Jura,,,1,Kanton ausgeschrieben
-13778,2833,Seltisberg,13,BL,1303,Bezirk Liestal,Kanton Basel-Landschaft,,RIS Basel-Jura,,,1,Kanton ausgeschrieben
-13779,2834,Ziefen,13,BL,1303,Bezirk Liestal,Kanton Basel-Landschaft,,RIS Basel-Jura,,,1,Kanton ausgeschrieben
+13773,2828,Lausen,13,BL,1303,Bezirk Liestal,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,,1,Kanton ausgeschrieben
+13774,2829,Liestal,13,BL,1303,Bezirk Liestal,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,,1,Kanton ausgeschrieben
+13775,2830,Lupsingen,13,BL,1303,Bezirk Liestal,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,,1,Kanton ausgeschrieben
+13776,2831,Pratteln,13,BL,1303,Bezirk Liestal,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,,1,Kanton ausgeschrieben
+13777,2832,Ramlinsburg,13,BL,1303,Bezirk Liestal,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,,1,Kanton ausgeschrieben
+13778,2833,Seltisberg,13,BL,1303,Bezirk Liestal,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,,1,Kanton ausgeschrieben
+13779,2834,Ziefen,13,BL,1303,Bezirk Liestal,Kanton Basel-Landschaft,Ausserhalb,RIS Basel-Jura,,,1,Kanton ausgeschrieben
 13780,2841,Anwil,13,BL,1304,Bezirk Sissach,Kanton Basel-Landschaft,Art. 1 Abs. 2,RIS Basel-Jura,,,1,Kanton ausgeschrieben
 13781,2842,Böckten,13,BL,1304,Bezirk Sissach,Kanton Basel-Landschaft,Art. 1 Abs. 2,RIS Basel-Jura,,,1,Kanton ausgeschrieben
 13782,2843,Buckten,13,BL,1304,Bezirk Sissach,Kanton Basel-Landschaft,Art. 1 Abs. 2,RIS Basel-Jura,,,1,Kanton ausgeschrieben
@@ -1607,7 +1607,7 @@
 14603,5413,Roche (VD),22,VD,2221,District d'Aigle,Chablais Région,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14914,5414,Villeneuve (VD),22,VD,2221,District d'Aigle,Chablais Région,Art. 1 Abs. 1,RIS Suisse Occidentale,,Parc naturel régional Gruyère Pays-d'Enhaut,0,
 14911,5415,Yvorne,22,VD,2221,District d'Aigle,Chablais Région,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
-16600,5422,Aubonne,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,,RIS Suisse Occidentale,,,0,
+16600,5422,Aubonne,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Ausserhalb,RIS Suisse Occidentale,,,0,
 14784,5423,Ballens,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14763,5424,Berolle,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14757,5425,Bière,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
@@ -1627,13 +1627,13 @@
 15488,5464,Vully-les-Lacs,22,VD,2222,District de la Broye-Vully,Communauté régionale de la Broye,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14755,5471,Bettens,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14766,5472,Bournens,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
-14765,5473,Boussens,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,,RIS Suisse Occidentale,,,0,
+14765,5473,Boussens,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Ausserhalb,RIS Suisse Occidentale,,,0,
 14651,5474,La Chaux (Cossonay),22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14853,5475,Chavannes-le-Veyron,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14814,5476,Chevilly,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
-14828,5477,Cossonay,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,,RIS Suisse Occidentale,,,0,
+14828,5477,Cossonay,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Ausserhalb,RIS Suisse Occidentale,,,0,
 14830,5479,Cuarnens,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
-14819,5480,Daillens,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,,RIS Suisse Occidentale,,,0,
+14819,5480,Daillens,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Ausserhalb,RIS Suisse Occidentale,,,0,
 14854,5481,Dizy,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14716,5482,Eclépens,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14746,5483,Ferreyres,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
@@ -1642,35 +1642,35 @@
 14652,5486,L'Isle,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14547,5487,Lussery-Villars,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14683,5488,Mauraz,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
-14676,5489,Mex (VD),22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,,RIS Suisse Occidentale,,,0,
+14676,5489,Mex (VD),22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Ausserhalb,RIS Suisse Occidentale,,,0,
 14681,5490,Moiry,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14686,5491,Mont-la-Ville,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14695,5492,Montricher,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14668,5493,Orny,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
-14555,5495,Penthalaz,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,,RIS Suisse Occidentale,,,0,
-14556,5496,Penthaz,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,,RIS Suisse Occidentale,,,0,
+14555,5495,Penthalaz,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Ausserhalb,RIS Suisse Occidentale,,,0,
+14556,5496,Penthaz,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Ausserhalb,RIS Suisse Occidentale,,,0,
 14578,5497,Pompaples,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14657,5498,La Sarraz,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14594,5499,Senarclens,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
-14900,5501,Sullens,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,,RIS Suisse Occidentale,,,0,
-14908,5503,Vufflens-la-Ville,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,,RIS Suisse Occidentale,,,0,
-16613,5511,Assens,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,,RIS Suisse Occidentale,,,0,
+14900,5501,Sullens,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Ausserhalb,RIS Suisse Occidentale,,,0,
+14908,5503,Vufflens-la-Ville,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Ausserhalb,RIS Suisse Occidentale,,,0,
+16613,5511,Assens,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Ausserhalb,RIS Suisse Occidentale,,,0,
 14552,5512,Bercher,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
-14771,5514,Bottens,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,,RIS Suisse Occidentale,,,0,
-14772,5515,Bretigny-sur-Morrens,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,,RIS Suisse Occidentale,,,0,
-14825,5516,Cugy (VD),22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,,RIS Suisse Occidentale,,,0,
-14717,5518,Echallens,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,,RIS Suisse Occidentale,,,0,
+14771,5514,Bottens,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Ausserhalb,RIS Suisse Occidentale,,,0,
+14772,5515,Bretigny-sur-Morrens,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Ausserhalb,RIS Suisse Occidentale,,,0,
+14825,5516,Cugy (VD),22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Ausserhalb,RIS Suisse Occidentale,,,0,
+14717,5518,Echallens,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Ausserhalb,RIS Suisse Occidentale,,,0,
 14708,5520,Essertines-sur-Yverdon,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
-14702,5521,Etagnières,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,,RIS Suisse Occidentale,,,0,
+14702,5521,Etagnières,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Ausserhalb,RIS Suisse Occidentale,,,0,
 14744,5522,Fey,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
-14748,5523,Froideville,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,,RIS Suisse Occidentale,,,0,
-14687,5527,Morrens (VD),22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,,RIS Suisse Occidentale,,,0,
+14748,5523,Froideville,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Ausserhalb,RIS Suisse Occidentale,,,0,
+14687,5527,Morrens (VD),22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Ausserhalb,RIS Suisse Occidentale,,,0,
 14562,5529,Oulens-sous-Echallens,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14565,5530,Pailly,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14557,5531,Penthéréaz,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14577,5533,Poliez-Pittet,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14619,5534,Rueyres,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
-14612,5535,Saint-Barthélemy (VD),22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,,RIS Suisse Occidentale,,,0,
+14612,5535,Saint-Barthélemy (VD),22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Ausserhalb,RIS Suisse Occidentale,,,0,
 14887,5537,Villars-le-Terroir,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14910,5539,Vuarrens,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 15489,5540,Montilliez,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
@@ -1692,53 +1692,53 @@
 14572,5566,Provence,22,VD,2224,District du Jura-Nord vaudois,Association pour le développement du nord vaudois,Art. 1 Abs. 1,RIS Suisse Occidentale,Arc Jurassien,,0,
 14591,5568,Sainte-Croix,22,VD,2224,District du Jura-Nord vaudois,Association pour le développement du nord vaudois,Art. 1 Abs. 1,RIS Suisse Occidentale,Arc Jurassien,,0,
 15492,5571,Tévenon,22,VD,2224,District du Jura-Nord vaudois,Association pour le développement du nord vaudois,Art. 1 Abs. 1,RIS Suisse Occidentale,Arc Jurassien,,0,
-14760,5581,Belmont-sur-Lausanne,22,VD,2226,District de Lavaux-Oron,Lausanne Région,,RIS Suisse Occidentale,,,0,
-14810,5582,Cheseaux-sur-Lausanne,22,VD,2225,District de Lausanne,Lausanne Région,,RIS Suisse Occidentale,,,0,
-14832,5583,Crissier,22,VD,2229,District de l'Ouest lausannois,Lausanne Région,,RIS Suisse Occidentale,,Ouest lausannois,0,
-14701,5584,Epalinges,22,VD,2225,District de Lausanne,Lausanne Région,,RIS Suisse Occidentale,,,0,
-14644,5585,Jouxtens-Mézery,22,VD,2225,District de Lausanne,Lausanne Région,,RIS Suisse Occidentale,,,0,
-14649,5586,Lausanne,22,VD,2225,District de Lausanne,Lausanne Région,,RIS Suisse Occidentale,,,0,
-14647,5587,Le Mont-sur-Lausanne,22,VD,2225,District de Lausanne,Lausanne Région,,RIS Suisse Occidentale,,,0,
-14568,5588,Paudex,22,VD,2226,District de Lavaux-Oron,Lausanne Région,,RIS Suisse Occidentale,,,0,
-14575,5589,Prilly,22,VD,2229,District de l'Ouest lausannois,Lausanne Région,,RIS Suisse Occidentale,,Ouest lausannois,0,
-14574,5590,Pully,22,VD,2226,District de Lavaux-Oron,Lausanne Région,,RIS Suisse Occidentale,,,0,
-14580,5591,Renens (VD),22,VD,2229,District de l'Ouest lausannois,Lausanne Région,,RIS Suisse Occidentale,,Ouest lausannois,0,
-14605,5592,Romanel-sur-Lausanne,22,VD,2225,District de Lausanne,Lausanne Région,,RIS Suisse Occidentale,,,0,
+14760,5581,Belmont-sur-Lausanne,22,VD,2226,District de Lavaux-Oron,Lausanne Région,Ausserhalb,RIS Suisse Occidentale,,,0,
+14810,5582,Cheseaux-sur-Lausanne,22,VD,2225,District de Lausanne,Lausanne Région,Ausserhalb,RIS Suisse Occidentale,,,0,
+14832,5583,Crissier,22,VD,2229,District de l'Ouest lausannois,Lausanne Région,Ausserhalb,RIS Suisse Occidentale,,Ouest lausannois,0,
+14701,5584,Epalinges,22,VD,2225,District de Lausanne,Lausanne Région,Ausserhalb,RIS Suisse Occidentale,,,0,
+14644,5585,Jouxtens-Mézery,22,VD,2225,District de Lausanne,Lausanne Région,Ausserhalb,RIS Suisse Occidentale,,,0,
+14649,5586,Lausanne,22,VD,2225,District de Lausanne,Lausanne Région,Ausserhalb,RIS Suisse Occidentale,,,0,
+14647,5587,Le Mont-sur-Lausanne,22,VD,2225,District de Lausanne,Lausanne Région,Ausserhalb,RIS Suisse Occidentale,,,0,
+14568,5588,Paudex,22,VD,2226,District de Lavaux-Oron,Lausanne Région,Ausserhalb,RIS Suisse Occidentale,,,0,
+14575,5589,Prilly,22,VD,2229,District de l'Ouest lausannois,Lausanne Région,Ausserhalb,RIS Suisse Occidentale,,Ouest lausannois,0,
+14574,5590,Pully,22,VD,2226,District de Lavaux-Oron,Lausanne Région,Ausserhalb,RIS Suisse Occidentale,,,0,
+14580,5591,Renens (VD),22,VD,2229,District de l'Ouest lausannois,Lausanne Région,Ausserhalb,RIS Suisse Occidentale,,Ouest lausannois,0,
+14605,5592,Romanel-sur-Lausanne,22,VD,2225,District de Lausanne,Lausanne Région,Ausserhalb,RIS Suisse Occidentale,,,0,
 14806,5601,Chexbres,22,VD,2226,District de Lavaux-Oron,PROMOVE - Riviera-Lavaux,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14753,5604,Forel (Lavaux),22,VD,2226,District de Lavaux-Oron,Lausanne Région,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
-14640,5606,Lutry,22,VD,2226,District de Lavaux-Oron,Lausanne Région,,RIS Suisse Occidentale,,,0,
+14640,5606,Lutry,22,VD,2226,District de Lavaux-Oron,Lausanne Région,Ausserhalb,RIS Suisse Occidentale,,,0,
 14573,5607,Puidoux,22,VD,2226,District de Lavaux-Oron,PROMOVE - Riviera-Lavaux,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14602,5609,Rivaz,22,VD,2226,District de Lavaux-Oron,PROMOVE - Riviera-Lavaux,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14588,5610,Saint-Saphorin (Lavaux),22,VD,2226,District de Lavaux-Oron,Lausanne Région,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
-14584,5611,Savigny,22,VD,2226,District de Lavaux-Oron,Lausanne Région,,RIS Suisse Occidentale,,,0,
+14584,5611,Savigny,22,VD,2226,District de Lavaux-Oron,Lausanne Région,Ausserhalb,RIS Suisse Occidentale,,,0,
 15493,5613,Bourg-en-Lavaux,22,VD,2226,District de Lavaux-Oron,PROMOVE - Riviera-Lavaux,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
-14781,5621,Aclens,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,,RIS Suisse Occidentale,,,0,
-14770,5622,Bremblens,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,,RIS Suisse Occidentale,,,0,
-14844,5623,Buchillon,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,,RIS Suisse Occidentale,,,0,
-15651,5624,Bussigny,22,VD,2229,District de l'Ouest lausannois,Lausanne Région,,RIS Suisse Occidentale,,Ouest lausannois,0,
-14860,5627,Chavannes-près-Renens,22,VD,2229,District de l'Ouest lausannois,Lausanne Région,,RIS Suisse Occidentale,,Ouest lausannois,0,
-14815,5628,Chigny,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,,RIS Suisse Occidentale,,,0,
+14781,5621,Aclens,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Ausserhalb,RIS Suisse Occidentale,,,0,
+14770,5622,Bremblens,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Ausserhalb,RIS Suisse Occidentale,,,0,
+14844,5623,Buchillon,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Ausserhalb,RIS Suisse Occidentale,,,0,
+15651,5624,Bussigny,22,VD,2229,District de l'Ouest lausannois,Lausanne Région,Ausserhalb,RIS Suisse Occidentale,,Ouest lausannois,0,
+14860,5627,Chavannes-près-Renens,22,VD,2229,District de l'Ouest lausannois,Lausanne Région,Ausserhalb,RIS Suisse Occidentale,,Ouest lausannois,0,
+14815,5628,Chigny,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Ausserhalb,RIS Suisse Occidentale,,,0,
 14816,5629,Clarmont,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
-14824,5631,Denens,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,,RIS Suisse Occidentale,,,0,
-14822,5632,Denges,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,,RIS Suisse Occidentale,,,0,
-14718,5633,Echandens,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,,RIS Suisse Occidentale,,,0,
-15494,5634,Echichens,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,,RIS Suisse Occidentale,,,0,
-14721,5635,Ecublens (VD),22,VD,2229,District de l'Ouest lausannois,Lausanne Région,,RIS Suisse Occidentale,,Ouest lausannois,0,
-14703,5636,Etoy,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,,RIS Suisse Occidentale,,,0,
+14824,5631,Denens,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Ausserhalb,RIS Suisse Occidentale,,,0,
+14822,5632,Denges,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Ausserhalb,RIS Suisse Occidentale,,,0,
+14718,5633,Echandens,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Ausserhalb,RIS Suisse Occidentale,,,0,
+15494,5634,Echichens,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Ausserhalb,RIS Suisse Occidentale,,,0,
+14721,5635,Ecublens (VD),22,VD,2229,District de l'Ouest lausannois,Lausanne Région,Ausserhalb,RIS Suisse Occidentale,,Ouest lausannois,0,
+14703,5636,Etoy,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Ausserhalb,RIS Suisse Occidentale,,,0,
 14650,5637,Lavigny,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
-14622,5638,Lonay,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,,RIS Suisse Occidentale,,,0,
-14636,5639,Lully (VD),22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,,RIS Suisse Occidentale,,,0,
-14637,5640,Lussy-sur-Morges,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,,RIS Suisse Occidentale,,,0,
-14690,5642,Morges,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,,RIS Suisse Occidentale,,,0,
-14570,5643,Préverenges,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,,RIS Suisse Occidentale,,,0,
-14606,5645,Romanel-sur-Morges,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,,RIS Suisse Occidentale,,,0,
-14587,5646,Saint-Prex,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,,RIS Suisse Occidentale,,,0,
-14590,5648,Saint-Sulpice (VD),22,VD,2229,District de l'Ouest lausannois,Lausanne Région,,RIS Suisse Occidentale,,Ouest lausannois,0,
-14880,5649,Tolochenaz,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,,RIS Suisse Occidentale,,,0,
+14622,5638,Lonay,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Ausserhalb,RIS Suisse Occidentale,,,0,
+14636,5639,Lully (VD),22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Ausserhalb,RIS Suisse Occidentale,,,0,
+14637,5640,Lussy-sur-Morges,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Ausserhalb,RIS Suisse Occidentale,,,0,
+14690,5642,Morges,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Ausserhalb,RIS Suisse Occidentale,,,0,
+14570,5643,Préverenges,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Ausserhalb,RIS Suisse Occidentale,,,0,
+14606,5645,Romanel-sur-Morges,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Ausserhalb,RIS Suisse Occidentale,,,0,
+14587,5646,Saint-Prex,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Ausserhalb,RIS Suisse Occidentale,,,0,
+14590,5648,Saint-Sulpice (VD),22,VD,2229,District de l'Ouest lausannois,Lausanne Région,Ausserhalb,RIS Suisse Occidentale,,Ouest lausannois,0,
+14880,5649,Tolochenaz,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Ausserhalb,RIS Suisse Occidentale,,,0,
 14874,5650,Vaux-sur-Morges,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
-14885,5651,Villars-Sainte-Croix,22,VD,2229,District de l'Ouest lausannois,Lausanne Région,,RIS Suisse Occidentale,,Ouest lausannois,0,
-14882,5652,Villars-sous-Yens,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,,RIS Suisse Occidentale,,,0,
-14907,5653,Vufflens-le-Château,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,,RIS Suisse Occidentale,,,0,
+14885,5651,Villars-Sainte-Croix,22,VD,2229,District de l'Ouest lausannois,Lausanne Région,Ausserhalb,RIS Suisse Occidentale,,Ouest lausannois,0,
+14882,5652,Villars-sous-Yens,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Ausserhalb,RIS Suisse Occidentale,,,0,
+14907,5653,Vufflens-le-Château,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Ausserhalb,RIS Suisse Occidentale,,,0,
 14901,5654,Vullierens,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14913,5655,Yens,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 16612,5656,Hautemorges,22,VD,2227,District de Morges,Région de Cossonay - Aubonne - Morges,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
@@ -1758,38 +1758,38 @@
 14888,5690,Villars-le-Comte,22,VD,2222,District de la Broye-Vully,Communauté régionale de la Broye,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14909,5692,Vucherens,22,VD,2222,District de la Broye-Vully,Communauté régionale de la Broye,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 15616,5693,Montanaire,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
-14779,5701,Arnex-sur-Nyon,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
-15652,5702,Arzier-Le Muids,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
-14788,5703,Bassins,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
+14779,5701,Arnex-sur-Nyon,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
+15652,5702,Arzier-Le Muids,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
+14788,5703,Bassins,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
 14761,5704,Begnins,22,VD,2228,District de Nyon,District de Nyon,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
-14776,5705,Bogis-Bossey,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
-14775,5706,Borex,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
-14859,5707,Chavannes-de-Bogis,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
-14858,5708,Chavannes-des-Bois,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
-14809,5709,Chéserex,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
-14817,5710,Coinsins,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
-14799,5711,Commugny,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
-14794,5712,Coppet,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
-16609,5713,Crans (VD),22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
-14835,5714,Crassier,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
-14711,5715,Duillier,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
-14706,5716,Eysins,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
-14750,5717,Founex,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
-14726,5718,Genolier,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
-14731,5719,Gingins,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
-14735,5720,Givrins,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
-14733,5721,Gland,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
-14728,5722,Grens,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
-14680,5723,Mies,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
-14659,5724,Nyon,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
-14582,5725,Prangins,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
-14658,5726,La Rippe,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
+14776,5705,Bogis-Bossey,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
+14775,5706,Borex,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
+14859,5707,Chavannes-de-Bogis,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
+14858,5708,Chavannes-des-Bois,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
+14809,5709,Chéserex,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
+14817,5710,Coinsins,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
+14799,5711,Commugny,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
+14794,5712,Coppet,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
+16609,5713,Crans (VD),22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
+14835,5714,Crassier,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
+14711,5715,Duillier,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
+14706,5716,Eysins,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
+14750,5717,Founex,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
+14726,5718,Genolier,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
+14731,5719,Gingins,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
+14735,5720,Givrins,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
+14733,5721,Gland,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
+14728,5722,Grens,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
+14680,5723,Mies,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
+14659,5724,Nyon,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
+14582,5725,Prangins,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
+14658,5726,La Rippe,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
 14613,5727,Saint-Cergue,22,VD,2228,District de Nyon,District de Nyon,Art. 1 Abs. 2,RIS Suisse Occidentale,,,0,
-14598,5728,Signy-Avenex,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
-14897,5729,Tannay,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
-14879,5730,Trélex,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
-14639,5731,Le Vaud,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
-14892,5732,Vich,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
+14598,5728,Signy-Avenex,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
+14897,5729,Tannay,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
+14879,5730,Trélex,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
+14639,5731,Le Vaud,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
+14892,5732,Vich,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
 14653,5741,L'Abergement,22,VD,2224,District du Jura-Nord vaudois,Association pour le développement du nord vaudois,Art. 1 Abs. 1,RIS Suisse Occidentale,Arc Jurassien,,0,
 14783,5742,Agiez,22,VD,2224,District du Jura-Nord vaudois,Association pour le développement du nord vaudois,Art. 1 Abs. 1,RIS Suisse Occidentale,Arc Jurassien,,0,
 14778,5743,Arnex-sur-Orbe,22,VD,2224,District du Jura-Nord vaudois,Association pour le développement du nord vaudois,Art. 1 Abs. 1,RIS Suisse Occidentale,Arc Jurassien,,0,
@@ -1816,9 +1816,9 @@
 14903,5766,Vuiteboeuf,22,VD,2224,District du Jura-Nord vaudois,Association pour le développement du nord vaudois,Art. 1 Abs. 1,RIS Suisse Occidentale,Arc Jurassien,,0,
 14792,5785,Corcelles-le-Jorat,22,VD,2222,District de la Broye-Vully,Communauté régionale de la Broye,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14545,5790,Maracon,22,VD,2226,District de Lavaux-Oron,Lausanne Région,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
-14697,5792,Montpreveyres,22,VD,2226,District de Lavaux-Oron,Lausanne Région,,RIS Suisse Occidentale,,,0,
+14697,5792,Montpreveyres,22,VD,2226,District de Lavaux-Oron,Lausanne Région,Ausserhalb,RIS Suisse Occidentale,,,0,
 14607,5798,Ropraz,22,VD,2222,District de la Broye-Vully,Communauté régionale de la Broye,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
-15505,5799,Servion,22,VD,2226,District de Lavaux-Oron,Lausanne Région,,RIS Suisse Occidentale,,,0,
+15505,5799,Servion,22,VD,2226,District de Lavaux-Oron,Lausanne Région,Ausserhalb,RIS Suisse Occidentale,,,0,
 14902,5803,Vulliens,22,VD,2222,District de la Broye-Vully,Communauté régionale de la Broye,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 15491,5804,Jorat-Menthue,22,VD,2223,District du Gros-de-Vaud,Région du Gros-de-Vaud,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 16617,5805,Oron,22,VD,2226,District de Lavaux-Oron,Lausanne Région,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
@@ -1841,7 +1841,7 @@
 14837,5852,Bursinel,22,VD,2228,District de Nyon,District de Nyon,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14840,5853,Bursins,22,VD,2228,District de Nyon,District de Nyon,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14842,5854,Burtigny,22,VD,2228,District de Nyon,District de Nyon,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
-14712,5855,Dully,22,VD,2228,District de Nyon,District de Nyon,,RIS Suisse Occidentale,,,0,
+14712,5855,Dully,22,VD,2228,District de Nyon,District de Nyon,Ausserhalb,RIS Suisse Occidentale,,,0,
 14704,5856,Essertines-sur-Rolle,22,VD,2228,District de Nyon,District de Nyon,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14739,5857,Gilly,22,VD,2228,District de Nyon,District de Nyon,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
 14638,5858,Luins,22,VD,2228,District de Nyon,District de Nyon,Art. 1 Abs. 1,RIS Suisse Occidentale,,,0,
@@ -2041,51 +2041,51 @@
 16116,6504,La Côte-aux-Fées,24,NE,2400,Canton de Neuchâtel,Val-de-Travers,Art. 1 Abs. 1,RIS Suisse Occidentale,Arc Jurassien,,0,
 16117,6511,Les Verrières,24,NE,2400,Canton de Neuchâtel,Val-de-Travers,Art. 1 Abs. 1,RIS Suisse Occidentale,Arc Jurassien,,0,
 16118,6512,Val-de-Travers,24,NE,2400,Canton de Neuchâtel,Val-de-Travers,Art. 1 Abs. 1,RIS Suisse Occidentale,Arc Jurassien,,0,
-11726,6601,Aire-la-Ville,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-11776,6602,Anières,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-11664,6603,Avully,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-11665,6604,Avusy,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-11692,6605,Bardonnex,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-11880,6606,Bellevue,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-11853,6607,Bernex,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-11400,6608,Carouge (GE),25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-11411,6609,Cartigny,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-11387,6610,Céligny,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-11439,6611,Chancy,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-11431,6612,Chêne-Bougeries,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-11535,6613,Chêne-Bourg,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-11586,6614,Choulex,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-11595,6615,Collex-Bossy,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-11597,6616,Collonge-Bellerive,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-11599,6617,Cologny,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-11651,6618,Confignon,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-11569,6619,Corsier (GE),25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-11582,6620,Dardagny,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-12099,6621,Genève,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-12097,6622,Genthod,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-12606,6623,Le Grand-Saconnex,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-11959,6624,Gy,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-12296,6625,Hermance,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-12642,6626,Jussy,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-12575,6627,Laconnex,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-12624,6628,Lancy,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-12409,6629,Meinier,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-12430,6630,Meyrin,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-12484,6631,Onex,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-13155,6632,Perly-Certoux,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-13114,6633,Plan-les-Ouates,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-13110,6634,Pregny-Chambésy,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-13107,6635,Presinge,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-13094,6636,Puplinge,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-12872,6637,Russin,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-13051,6638,Satigny,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-10414,6639,Soral,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-10569,6640,Thônex,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-10896,6641,Troinex,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-10942,6642,Vandoeuvres,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-10918,6643,Vernier,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-10921,6644,Versoix,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
-10902,6645,Veyrier,25,GE,2500,Canton de Genève,Canton de Genève,,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+11726,6601,Aire-la-Ville,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+11776,6602,Anières,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+11664,6603,Avully,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+11665,6604,Avusy,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+11692,6605,Bardonnex,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+11880,6606,Bellevue,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+11853,6607,Bernex,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+11400,6608,Carouge (GE),25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+11411,6609,Cartigny,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+11387,6610,Céligny,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+11439,6611,Chancy,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+11431,6612,Chêne-Bougeries,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+11535,6613,Chêne-Bourg,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+11586,6614,Choulex,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+11595,6615,Collex-Bossy,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+11597,6616,Collonge-Bellerive,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+11599,6617,Cologny,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+11651,6618,Confignon,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+11569,6619,Corsier (GE),25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+11582,6620,Dardagny,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+12099,6621,Genève,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+12097,6622,Genthod,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+12606,6623,Le Grand-Saconnex,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+11959,6624,Gy,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+12296,6625,Hermance,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+12642,6626,Jussy,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+12575,6627,Laconnex,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+12624,6628,Lancy,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+12409,6629,Meinier,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+12430,6630,Meyrin,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+12484,6631,Onex,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+13155,6632,Perly-Certoux,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+13114,6633,Plan-les-Ouates,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+13110,6634,Pregny-Chambésy,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+13107,6635,Presinge,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+13094,6636,Puplinge,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+12872,6637,Russin,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+13051,6638,Satigny,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+10414,6639,Soral,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+10569,6640,Thônex,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+10896,6641,Troinex,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+10942,6642,Vandoeuvres,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+10918,6643,Vernier,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+10921,6644,Versoix,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
+10902,6645,Veyrier,25,GE,2500,Canton de Genève,Canton de Genève,Ausserhalb,RIS Suisse Occidentale,,,1,Kanton ausgeschrieben
 13273,6702,Boécourt,26,JU,2601,District de Delémont,Canton de Jura,Art. 1 Abs. 1,RIS Basel-Jura; RIS Suisse Occidentale,Arc Jurassien,,1,Kanton ausgeschrieben
 13274,6703,Bourrignon,26,JU,2601,District de Delémont,Canton de Jura,Art. 1 Abs. 1,RIS Basel-Jura; RIS Suisse Occidentale,Arc Jurassien,,1,Kanton ausgeschrieben
 13275,6704,Châtillon (JU),26,JU,2601,District de Delémont,Canton de Jura,Art. 1 Abs. 1,RIS Basel-Jura; RIS Suisse Occidentale,Arc Jurassien,,1,Kanton ausgeschrieben
